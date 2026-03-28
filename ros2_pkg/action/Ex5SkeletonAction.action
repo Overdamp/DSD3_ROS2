@@ -1,0 +1,8 @@
+# Ex5SkeletonAction.action
+# TODO: ประกาศ Goal เป็น int64 ชื่อ target_count
+
+---
+# TODO: ประกาศ Result เป็น string ชื่อ completion_message
+
+---
+# TODO: ประกาศ Feedback เป็น int64 ชื่อ current_count

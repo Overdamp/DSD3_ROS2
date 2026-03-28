@@ -1,0 +1,10 @@
+# Ex5FullAction.action
+# ตัวอย่าง Action สำหรับการนับถอยหลัง
+# Goal (เป้าหมาย)
+int64 target_count
+---
+# Result (ผลลัพธ์สุดท้าย)
+string completion_message
+---
+# Feedback (สถานะระหว่างทาง)
+int64 current_count

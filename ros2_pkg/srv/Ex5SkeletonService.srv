@@ -1,0 +1,8 @@
+# Ex5SkeletonService.srv
+# TODO: ประกาศ Request พารามิเตอร์ float64 จำนวน 2 ตัวได้แก่ width และ length
+
+
+---
+# TODO: ประกาศ Response พารามิเตอร์ float64 1 ตัวได้แก่ area
+
+

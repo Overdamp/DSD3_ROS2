@@ -1,0 +1,8 @@
+# Ex5FullService.srv
+# ตัวอย่าง Service สำหรับคำนวณพื้นที่ (กว้าง x ยาว)
+# Request (ส่งไป)
+float64 width
+float64 length
+---
+# Response (ตอบกลับ)
+float64 area
